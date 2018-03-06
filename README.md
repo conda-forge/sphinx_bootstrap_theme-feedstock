@@ -18,9 +18,7 @@ can use any number of different Bootswatch CSS themes.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/sphinx_bootstrap_theme-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/sphinx_bootstrap_theme-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/sphinx_bootstrap_theme-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/sphinx_bootstrap_theme-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/sphinx_bootstrap_theme-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/sphinx-bootstrap-theme-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/sphinx_bootstrap_theme-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/sphinx_bootstrap_theme-feedstock)
 
 Current release info
 ====================
