@@ -10,6 +10,7 @@ source:
   sha256: 368f323aa619eb367c419c4ac70a453b91144b56db057628f62aba6cf4abbef5
 
 build:
+  noarch: python
   preserve_egg_dir: True
   number: 0
   script: python -m pip install --no-deps .
