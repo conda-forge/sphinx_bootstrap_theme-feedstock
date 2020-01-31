@@ -1,4 +1,4 @@
-{% set version = "0.7.1" %}
+{% set version = "0.7.0" %}
 
 package:
   name: sphinx_bootstrap_theme
@@ -7,7 +7,7 @@ package:
 source:
   url: https://github.com/ryan-roemer/sphinx-bootstrap-theme/archive/v{{ version }}.tar.gz
   fn: sphinx-bootstrap-theme-v{{ version }}.tar.gz
-  sha256: eea5a4340e48b5ab52bed1c6f0e04b917b2e1ef1d0b10de3183150747da4ff86
+  sha256: 7dba1d10973b9573c902d46ee2b0851a6e620b201037a313dc39859916b0b453
 
 build:
   noarch: python
