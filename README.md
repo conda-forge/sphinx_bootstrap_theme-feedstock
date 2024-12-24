@@ -1,8 +1,7 @@
 About sphinx_bootstrap_theme
 ============================
 
-Home: http://ryan-roemer.github.com/sphinx-bootstrap-theme/
-
+Home: https://github.com/ryan-roemer/sphinx-bootstrap-theme
 Package license: MIT
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sphinx_bootstrap_theme-feedstock/blob/master/LICENSE.txt)
